@@ -1,4 +1,27 @@
+/* Referenciar ID: # , classe: .  */
+
 .bg1 {
     background-color: #a1996f;
     color: #3d2d2d;
+}
+
+.footer {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 100px;
+}
+
+#titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pingas {
+    width: 310px;
 }
